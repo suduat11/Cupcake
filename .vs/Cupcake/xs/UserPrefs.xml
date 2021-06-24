@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{ADB19A1E-F5C7-4CBB-BA00-B613302E5D2D}|Default">
-  <MonoDevelop.Ide.ItemProperties.Cupcake FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Cupcake FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cupcake" expanded="True" selected="True">
+            <Node name="Cupcake" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
